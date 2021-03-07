@@ -207,7 +207,7 @@ public class IndexController extends BaseController{
         params.put("t",""+System.currentTimeMillis());
         String url = getPageViewUrl(tables.getStore(),"",params);
         return "redirect:"+url;
-        //return "redirect:"+host+"/default/index.html?token="+token+"&table_id="+tables.getId();//跳转到授权页面
+         //return "redirect:"+host+"/default/index.html?token="+token+"&table_id="+tables.getId();//跳转到授权页面
         //return "redirect:http://localhost:8081/#/?token="+token+"&table_id="+tables.getId();//测试默认页面
     }
 
