@@ -53,6 +53,10 @@
 7.商品增加了规格选择功能
 
 
+
+
+
+
 部分界面截图：
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/113357_b6da2e83_1773004.png "屏幕截图.png")
@@ -90,6 +94,12 @@
 
    ![如果提示要关注公众号，请先扫码关注我的测试号](https://images.gitee.com/uploads/images/2021/0317/103444_58b8074a_1773004.jpeg "微信图片_20210317103433.jpg")
    
+
+
+体验预点单功能请直接扫码
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/191804_446858ce_1773004.png "屏幕截图.png")
+
    #### 相关文档
    
    1.功能结构：https://www.processon.com/view/link/5ed19a3d7d9c08070283529d
