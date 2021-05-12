@@ -81,13 +81,14 @@
    分店后台：http://qc.fangwei6.com/admin/index.html?#/store/login
    sysAdmin2 888888
    
-   员工端：
-   h5端：http://qc.fangwei6.com/staff/index.html
+   员工端（可打包成h5版本，app版本，小程序版本等）：
+   h5版本：http://qc.fangwei6.com/staff/index.html
    
    服务员帐号：systest1   888888
    厨师帐号： systest2  888888
    
-   用户h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
+   用户（可打包成h5版本，微信小程序版本等）
+   h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
 
 如果提示要关注公众号，请先扫下面二维码关注测试公众号再去扫餐桌码
 
