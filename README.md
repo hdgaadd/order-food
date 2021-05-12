@@ -82,7 +82,6 @@
    sysAdmin2 888888
    
    员工端：
-   android端:  http://static.fangwei6.com/orderFoodStaff.apk
    h5端：http://qc.fangwei6.com/staff/index.html
    
    服务员帐号：systest1   888888
