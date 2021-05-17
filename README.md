@@ -75,17 +75,17 @@
    要购买或开通帐号请联系电话或微信：13710124580
    
    测试帐号
-   总店后台：http://qc.fangwei6.com/admin/index.html?#/mainStore/login
-   testAdmin2  888888
+   总店后台：https://qc.fangwei6.com/admin/index.html?#/mainStore/login
+   admin2 888888
    
-   分店后台：http://qc.fangwei6.com/admin/index.html?#/store/login
-   sysAdmin2 888888
+   分店后台：https://qc.fangwei6.com/admin/index.html?#/store/login
+   test1 888888
    
    员工端（可打包成h5版本，app版本，小程序版本等）：
-   h5版本：http://qc.fangwei6.com/staff/index.html
+   h5版本：https://qc.fangwei6.com/staff/index.html
    
-   服务员帐号：systest1   888888
-   厨师帐号： systest2  888888
+   服务员帐号：test2   888888
+   厨师帐号： test3  888888
    
    用户（可打包成h5版本，微信小程序版本等）
    h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
