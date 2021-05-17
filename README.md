@@ -82,13 +82,12 @@
    admin2 888888
    
    分店后台：https://qc.fangwei6.com/admin/index.html?#/store/login
-   test1 888888
+   test2 888888
    
    员工端（可打包成h5版本，app版本，小程序版本等）：
    h5版本：https://qc.fangwei6.com/staff/index.html
    
-   服务员帐号：test2   888888
-   厨师帐号： test3  888888
+   服务员|厨师 帐号：test3   888888
    
    用户（可打包成h5版本，微信小程序版本等）
    h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
@@ -171,36 +170,3 @@ springboot + jpa + mysql
 3.  修改程序中的application-prod.properties中的数据库连接配置
 4.  运行程序即可（jpa会自动建表）
 
-#### 使用说明
-
-（注：拜托各位高台贵手，不要修改密码，不要修改密码，不要修改密码,有事好商量）
-
-   要购买或开通帐号请联系电话或微信：13710124580
-   
-   测试帐号
-   总店后台：http://qc.fangwei6.com/admin/index.html?#/mainStore/login
-   testAdmin2  888888
-   
-   分店后台：http://qc.fangwei6.com/admin/index.html?#/store/login
-   sysAdmin2 888888
-   
-   员工端：
-   android端:  http://static.fangwei6.com/orderFoodStaff.apk
-   h5端：http://qc.fangwei6.com/staff/index.html
-   
-   服务员帐号：systest1   888888
-   厨师帐号： systest2  888888
-   
-   用户h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
-
-如果提示要关注公众号，请先扫下面二维码关注测试公众号再去扫餐桌码
-
-   ![如果提示要关注公众号，请先扫码关注我的测试号](https://images.gitee.com/uploads/images/2021/0317/103444_58b8074a_1773004.jpeg "微信图片_20210317103433.jpg")
-   
-   #### 相关文档
-   
-   1.功能结构：https://www.processon.com/view/link/5ed19a3d7d9c08070283529d
-   
-   2.操作说明文档：暂无
-   
-   3.技术架构图：https://www.processon.com/view/link/5ed19bc663768906e2cdc056
