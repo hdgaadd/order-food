@@ -61,7 +61,7 @@
    
    测试帐号
    总店后台：https://qc.fangwei6.com/admin/index.html?#/mainStore/login
-   tadmin1 888888
+   tadmin  888888
    
    分店后台：https://qc.fangwei6.com/admin/index.html?#/store/login
    ttest2 888888
