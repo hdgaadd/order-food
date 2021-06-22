@@ -53,7 +53,53 @@
 6.优化团队点餐
 
 
+#### 使用说明
 
+（注：拜托各位高台贵手，不要修改密码，不要修改密码，不要修改密码,有事好商量,联系电话和微信：13710124580）
+
+   要购买或开通帐号请联系电话或微信：13710124580
+   
+   测试帐号
+   总店后台：https://qc.fangwei6.com/admin/index.html?#/mainStore/login
+   tadmin 888888
+   
+   分店后台：https://qc.fangwei6.com/admin/index.html?#/store/login
+   ttest1 888888
+   
+   员工端（可打包成h5版本，app版本，小程序版本等）：
+   h5版本：https://qc.fangwei6.com/staff/index.html
+扫码体验：![输入图片说明](https://images.gitee.com/uploads/images/2021/0531/123816_59266c93_1773004.png "屏幕截图.png")
+   
+
+   服务员|厨师 帐号：ttest2   888888
+   
+   用户（可打包成h5版本，微信小程序版本等）
+   h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
+
+下面是三张演示用的餐桌码。
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0531/123558_245133d8_1773004.png "屏幕截图.png")
+
+(如果提示要关注公众号，请先扫下面二维码关注测试公众号再去扫餐桌码，如果关注后还是提示，那说明测试号已经有超过100人关注了，请联系我，我去删除一些，再重新关注后就可以了)
+
+   ![如果提示要关注公众号，请先扫码关注我的测试号](https://images.gitee.com/uploads/images/2021/0317/103444_58b8074a_1773004.jpeg "微信图片_20210317103433.jpg")
+   
+
+
+体验预点单功能请直接扫码
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/191804_446858ce_1773004.png "屏幕截图.png")
+
+   #### 相关文档
+   
+   1.功能结构：https://www.processon.com/view/link/5ed19a3d7d9c08070283529d
+   
+   2.操作说明文档：暂无
+   
+   3.技术架构图：https://www.processon.com/view/link/5ed19bc663768906e2cdc056
+
+
+## 以下为旧版本说明
 
 
 
@@ -125,53 +171,7 @@
 
 
 
-#### 使用说明
 
-（注：拜托各位高台贵手，不要修改密码，不要修改密码，不要修改密码,有事好商量）
-
-   要购买或开通帐号请联系电话或微信：13710124580
-   
-   测试帐号
-   总店后台：https://qc.fangwei6.com/admin/index.html?#/mainStore/login
-   admin2 888888
-   
-   分店后台：https://qc.fangwei6.com/admin/index.html?#/store/login
-   test2 888888
-   
-   员工端（可打包成h5版本，app版本，小程序版本等）：
-   h5版本：https://qc.fangwei6.com/staff/index.html
-扫码体验：![输入图片说明](https://images.gitee.com/uploads/images/2021/0531/123816_59266c93_1773004.png "屏幕截图.png")
-   
-
-   服务员|厨师 帐号：test3   888888
-   
-   用户（可打包成h5版本，微信小程序版本等）
-   h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
-
-下面是三张演示用的餐桌码。
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0531/123558_245133d8_1773004.png "屏幕截图.png")
-
-(如果提示要关注公众号，请先扫下面二维码关注测试公众号再去扫餐桌码，如果关注后还是提示，那说明测试号已经有超过100人关注了，请联系我，我去删除一些，再重新关注后就可以了)
-
-   ![如果提示要关注公众号，请先扫码关注我的测试号](https://images.gitee.com/uploads/images/2021/0317/103444_58b8074a_1773004.jpeg "微信图片_20210317103433.jpg")
-   
-
-
-体验预点单功能请直接扫码
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0512/191804_446858ce_1773004.png "屏幕截图.png")
-
-   #### 相关文档
-   
-   1.功能结构：https://www.processon.com/view/link/5ed19a3d7d9c08070283529d
-   
-   2.操作说明文档：暂无
-   
-   3.技术架构图：https://www.processon.com/view/link/5ed19bc663768906e2cdc056
-
-
-## 以下为旧版本说明
 
 
 ## 2.0版本
@@ -197,9 +197,6 @@ springboot + jpa + mysql
 
 操作文档：https://shimo.im/docs/XKKwCjWpwcrjQqPr/read
 
-演示：http://qc.fangwei6.com
-
-联系电话和微信：13710124580
 
 #### 相关文档
 
