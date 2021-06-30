@@ -76,7 +76,7 @@
    
    员工端（可打包成h5版本，app版本，小程序版本等）：
    h5版本：https://qc.fangwei6.com/staff/index.html
-扫码体验：![输入图片说明](https://images.gitee.com/uploads/images/2021/0531/123816_59266c93_1773004.png "屏幕截图.png")
+扫码体验：![输入图片说明](https://images.gitee.com/uploads/images/2021/0630/181705_5246ec97_1773004.png "屏幕截图.png")
    
 
    服务员|厨师 帐号：ttest3   888888
