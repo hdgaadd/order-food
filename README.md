@@ -25,6 +25,8 @@
 
 4.修复了一些已知bug
 
+5.增加了一个适用于各种域名校验合法性的万能接口（如微信对域名的合法性校验需要上传一个校验文件等）
+
 
 
 员工端（uniapp开发）：
@@ -53,10 +55,10 @@
 
    
    测试帐号
-   总店后台：https://qc.fangwei6.com/admin/index.html?#/mainStore/login
+   总店后台：https://qc.fangwei6.com/web/mainStore
    tadmin  888888
    
-   分店后台：https://qc.fangwei6.com/admin/index.html?#/store/login
+   分店后台：https://qc.fangwei6.com/web/mainStore
    ttest2 888888
    
    员工端（可打包成h5版本，app版本，小程序版本等）：
