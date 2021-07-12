@@ -58,7 +58,7 @@
    总店后台：https://qc.fangwei6.com/web/mainStore
    tadmin  888888
    
-   分店后台：https://qc.fangwei6.com/web/mainStore
+   分店后台：https://qc.fangwei6.com/web/store
    ttest2 888888
    
    员工端（可打包成h5版本，app版本，小程序版本等）：
@@ -69,7 +69,7 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0630/182021_e185e521_1773004.png "屏幕截图.png")
    
 
-   服务员|厨师 帐号：ttest3   888888
+   服务员|厨师 帐号：ttest2   888888
    
    用户（可打包成h5版本，微信小程序版本等）
    h5端：在分店后台，店内管理->餐桌管理->二维码展示->微信扫码
