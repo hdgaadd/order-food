@@ -32,7 +32,10 @@
 
 
 
-操作说明文档：https://shimo.im/docs/2wAlNEwQ07sRnKqP/《扫一扫餐饮系统(www_fangwei6_com)》
+操作说明文档：
+
+链接：https://pan.baidu.com/s/18EbWs1SIQYH_m2z9GGckuA 
+提取码：1234
 
 
 ## 2.5版本
