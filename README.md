@@ -8,6 +8,8 @@
 #### 介绍
 一套用户餐厅点餐的系统
 
+点餐大致流程图：https://www.processon.com/view/link/6154219f5653bb6791de553d
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0805/110738_63c720a1_1773004.png "1.png")
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0805/110751_72ff779c_1773004.png "2.png")
